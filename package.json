@@ -1,0 +1,16 @@
+{
+	"name": "search-autocomplete",
+	"version": "1.0.0",
+	"description": "Implement an efficient Search Autocomplete input to search for movie titles, loading its data from a remote service endpoint.\n\nNote: For simplicity, use the provided searchData method to simulate a remote call.\n\nWhen you feel ready, you can validate your solution using any collaborative HTML/CSS renderer, such as this one.",
+	"main": "index.html",
+	"scripts": {
+		"start": "parcel index.html --open",
+		"build": "parcel build index.html"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"@babel/core": "7.2.0",
+		"parcel-bundler": "^1.6.1"
+	},
+	"keywords": []
+}
